@@ -12,7 +12,6 @@ Explora as origens e a evolução dos computadores, desde o ábaco até os super
 - Computadores de 1ª a 5ª geração (ENIAC, UNIVAC, TRADIC, circuitos integrados)  
 - Transição para microcomputadores e PCs pessoais nos anos 1980  
 - Conceitos básicos: hardware, software e procedimentos de operação  
-:contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -24,7 +23,6 @@ Apresenta o desenvolvimento da Internet, desde a ARPAnet até a rede mundial mod
 - Evolução dos navegadores (Mosaic, Netscape, Internet Explorer)  
 - Expansão global da rede e crescimento do acesso no Brasil  
 - Organização de arquivos e pastas no sistema operacional Windows  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -34,7 +32,6 @@ Aborda os primeiros serviços de e-mail e o processo de criação de uma Conta G
 - Surgimento do Gmail (2004) e seu impacto na comunicação digital  
 - Passo a passo para criação de uma Conta Google  
 - Verificação por telefone, segurança e boas práticas de senhas  
-:contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -45,7 +42,6 @@ Explica o uso do **Google Drive** como plataforma de armazenamento e produtivida
 - Tipos de documentos: Docs, Sheets, Slides, Forms e Drawings  
 - Interface do Drive (web, desktop e mobile)  
 - Upload, sincronização automática e colaboração em tempo real  
-:contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -56,7 +52,6 @@ Ensina o uso do **Google Docs** e seus principais recursos de edição.
 - Configurações de página, margens e orientação  
 - Inserção de texto, caracteres especiais, imagens e tabelas simples  
 - Verificação ortográfica, formatação e espaçamento  
-:contentReference[oaicite:4]{index=4}
 
 ---
 
@@ -66,7 +61,6 @@ Aprofunda o uso de recursos gráficos e de layout.
 - Criação e edição de tabelas (linhas, colunas, cores e bordas)  
 - Alinhamento vertical e horizontal das células  
 - Inserção e manipulação de imagens (upload, URL, Google Drive, Google Fotos)  
-:contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -77,7 +71,6 @@ Explora o **Google Sheets** como ferramenta de planilhas.
 - Conceitos de célula, linha, coluna e intervalo  
 - Inserção de fórmulas, funções e preenchimento automático  
 - Redimensionamento, alinhamento e formatação de dados  
-:contentReference[oaicite:6]{index=6}
 
 ---
 
@@ -88,7 +81,6 @@ Apresenta os fundamentos para criação de apresentações no **Google Slides**.
 - Inserção de texto, imagens e listas  
 - Organização e duplicação de slides  
 - Modo de apresentação e atalhos principais  
-:contentReference[oaicite:7]{index=7}
 
 ---
 
@@ -99,7 +91,6 @@ Introduz o **Google Gemini**, IA multimodal do Google, e suas aplicações prát
 - Versões Gemini (Ultra, Pro, Flash e Nano)  
 - Aplicações: redação, programação, geração de imagens e integração com o ecossistema Google  
 - Coleta de dados e política de privacidade  
-:contentReference[oaicite:8]{index=8}
 
 ---
 
